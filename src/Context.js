@@ -1,4 +1,4 @@
-// Context.js
+
 import React, { Component, createContext } from 'react';
 import { rowData } from './appdata';
 
