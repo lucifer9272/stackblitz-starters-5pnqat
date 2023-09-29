@@ -1,0 +1,27 @@
+{
+  "name": "stackblitz-starters-5pnqat",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@types/react": "18.2.23",
+    "bootstrap": "^5.3.2",
+    "package-lock.json": "1.0.0",
+    "react": "18.2.0",
+    "react-bootstrap": "2.9.0",
+    "react-dom": "18.2.0",
+    "service": "0.1.4",
+    "update": "0.7.4",
+    "worker": "0.4.0",
+    "xpm": "0.17.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
